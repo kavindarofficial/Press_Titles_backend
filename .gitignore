@@ -1,0 +1,9 @@
+*.sqlite3
+*.log
+env/
+aspnet_client/
+productionfiles/
+masterdata/__pycache__/
+api/__pycache__/
+backend/__pycache__/
+api/migrations/__pycache__/
